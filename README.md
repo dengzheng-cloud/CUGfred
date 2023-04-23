@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dengzheng
 - 👀 I’m interested in simd, compiler, computer graphics
-- 🌱 I’m currently learning halide, MNN, Assembly
-- 💞️ I’m looking to collaborate on nothing, i usually work alone
+- 🌱 I’m currently learning transformers, TensorRT
+- 💞️ I’m looking to collaborate on chatbot, i usually work alone
 - 📫 How to reach me, i'll address that
 
 <!---
